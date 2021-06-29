@@ -7,6 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-
+<p>先生からの問題待ち</p>
 </body>
 </html>
