@@ -1,0 +1,7 @@
+<!-- https://mvnrepository.com/artifact/com.google.cloud/google-cloud-vision-bom -->
+<dependency>
+    <groupId>com.google.cloud</groupId>
+    <artifactId>google-cloud-vision-bom</artifactId>
+    <version>1.99.1</version>
+    <type>pom</type>
+</dependency>

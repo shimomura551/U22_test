@@ -1,1 +1,2 @@
 AIzaSyCNM02SrWnxEjm4tkVs7V69aGQonI0BlLg
+set GOOGLE_APPLICATION_CREDENTIALS=[C:\pleiades\workspace\map_go\U22_test\key\mapgo-318306-dd61caec66a8.json]
